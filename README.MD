@@ -2,7 +2,7 @@
 | ------------- | ------------- |
 #### Top Repositories
 
-| <a href="https://github.com/peihua8858/ AndroidStringsPlugin " target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=AndroidStringsPlugin&theme=buefy"/></a> |<a href="https://github.com/peihua8858/kotlinCommonUtils" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=kotlinCommonUtils&theme=buefy"/></a> |
+| <a href="https://github.com/peihua8858/AndroidStringsPlugin" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=AndroidStringsPlugin&theme=buefy"/></a> |<a href="https://github.com/peihua8858/kotlinCommonUtils" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=kotlinCommonUtils&theme=buefy"/></a> |
 | ------------- | ------------- |
 
 | <a href="https://github.com/peihua8858/ViewPager2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=ViewPager2&theme=buefy"/></a> | <a href="https://github.com/peihua8858/PictureSelector" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=PictureSelector&theme=buefy" /></a> |
