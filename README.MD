@@ -1,19 +1,29 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peihua8858&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="Anurag's github stats" /></a> | <a href="https://github.com/peihua8858/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peihua8858&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | ------------- | ------------- |
-#### Top Repositories
-
-<a href="https://github.com/peihua8858/AndroidStringsPlugin" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=AndroidStringsPlugin&theme=buefy&card_width=240"/></a> <a href="https://github.com/peihua8858/kotlinCommonUtils" target="_blank"><img height="140"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=kotlinCommonUtils&theme=buefy&card_width=240"/></a> 
 
 
-<a href="https://github.com/peihua8858/ViewPager2" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=ViewPager2&theme=buefy&card_width=240"/></a> <a href="https://github.com/peihua8858/PictureSelector" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=PictureSelector&theme=buefy&card_width=240" /></a> 
+### Hey 👋, I'm Rick
 
+[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
-<a href="https://github.com/peihua8858/MaterialTextInputLayout" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=MaterialTextInputLayout&theme=buefy&card_width=240"/></a>  <a href="https://github.com/peihua8858/MultiStateView" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=MultiStateView&theme=buefy&card_width=240"/></a> 
+I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-<a href="https://github.com/peihua8858/GsonAdapter" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=GsonAdapter&theme=buefy&card_width=240"/></a>  <a href="https://github.com/peihua8858/CountDownTimer" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=CountDownTimer&theme=buefy&card_width=240"/></a> 
-
-
-<a href="https://github.com/peihua8858/JenkinsPluginAppToServer" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=JenkinsPluginAppToServer&theme=buefy&card_width=240"/></a>  <a href="https://github.com/peihua8858/AppLogServer" target="_blank"><img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=AppLogServer&theme=buefy&card_width=240"/></a> 
-
-
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
