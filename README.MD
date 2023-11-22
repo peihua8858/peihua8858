@@ -14,3 +14,6 @@
 | <a href="https://github.com/peihua8858/GsonAdapter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=GsonAdapter&theme=buefy"/></a>  | <a href="https://github.com/peihua8858/CountDownTimer" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=CountDownTimer&theme=buefy"/></a> | 
 | ------------- | ------------- |
 
+| <a href="https://github.com/peihua8858/JenkinsPluginAppToServer" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=JenkinsPluginAppToServer&theme=buefy"/></a>  | <a href="https://github.com/peihua8858/AppLogServer" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peihua8858&repo=AppLogServer&theme=buefy"/></a> | 
+| ------------- | ------------- |
+
