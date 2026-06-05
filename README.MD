@@ -1,5 +1,5 @@
 # Hi~ 👋
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=peihua8858&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/peihua8858/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-three-pi-23.vercel.app/api?username=peihua8858&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/peihua8858/github-readme-stats#gh-dark-mode-only)
 
 <div align="center">
   <img width=58% src="https://github-readme-stats-three-pi-23.vercel.app/api?username=peihua8858&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=prs,issues" />
