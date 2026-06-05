@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width=58% src="https://github-readme-stats-three-pi-23.vercel.app/api?username=peihua8858&show_icons=true&theme=transparent#gh-dark-mode-only" />
-  <img width=32% src="https://github-readme-stats-three-pi-23.vercel.app/api/top-langs/?username=peihua8858&layout=compact&theme=transparent&langs_count=8" />
+  <img width=32% src="https://github-readme-stats-three-pi-23.vercel.app/api/top-langs/?username=peihua8858&layout=compact&theme=transparent&langs_count=10" />
 </div>
 <p align="center">
   <br><br>
