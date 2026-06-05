@@ -1,7 +1,7 @@
 # Hi~ 👋
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-three-pi-23.vercel.app/api?username=peihua8858&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/peihua8858/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats-three-pi-23.vercel.app/api/top-langs/?username=peihua8858&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Top Langs](https://github-readme-stats-three-pi-23.vercel.app/api/top-langs/?username=peihua8858&layout=compact&theme=transparent&langs_count=8)
 
 <p align="center">
   <br><br>
